@@ -7,6 +7,6 @@ you can even experice one more way or alternate way
 
 https://currency-note-validation.herokuapp.com/redoc
 
-explore fastapi you can even experice one more way 
+explore fastapi https://fastapi.tiangolo.com/
 it is just estention of swagger and even you expose this api to deploy
 uvicorn is for ASGI and we have even pydantic for taking inputs from user by creating simple class usig pydantic
